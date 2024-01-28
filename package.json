@@ -1,0 +1,12 @@
+{
+  "name": "kf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sass -w ./styles/main.scss ./styles/form.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
